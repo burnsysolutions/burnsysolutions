@@ -15,6 +15,6 @@ I build the systems recruitment and service businesses run on, hands-on, with AI
 
 Bullhorn REST API · Zoho Recruit and Zoho CRM · Supabase (Postgres) · React and TypeScript · Claude and Claude Code · Make · n8n · Airtable · Twilio · ElevenLabs · Brevo · Stripe
 
-Most of this work is in private repositories because it belongs to clients. Happy to walk through it on a call.
+Most of this work is in private repositories because it belongs to clients, so I've rebuilt 45 of the automations as [interactive demos on made-up data](https://burnsysolutions.github.io/recruitment-automation-showcase/) ([code](https://github.com/burnsysolutions/recruitment-automation-showcase)). Happy to walk through the real thing on a call.
 
 [Portfolio](https://globusinesssolution.com/portfolio)
